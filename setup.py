@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="lerobot_teleop",
+    name="lerobot_teleoperator_teleop",
     version="0.0.1",
     description="LeRobot teleop integration",
     author="Spes Robotics",
