@@ -18,7 +18,7 @@ lerobot-teleoperate \
 
 Install the package in editable mode:
 ```bash
-git clone https://github.com/SpesRobotics/lerobot-teleop.git
+git clone https://github.com/SpesRobotics/lerobot-teleoperator-teleop.git
 cd lerobot-teleop
 pip install -e .
 ```
